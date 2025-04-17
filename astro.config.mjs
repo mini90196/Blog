@@ -8,4 +8,4 @@ export default defineConfig({
   site: 'https://mini90196.github.io',
   base: '/Blog',
   integrations: [mdx(), sitemap(), tailwind()]
-});
+}); 
